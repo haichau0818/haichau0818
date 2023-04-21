@@ -6,6 +6,8 @@
 </div>
 
 
+https://img.shields.io/badge/LinkedIn-blue
+
 <!--
 **haichau0818/haichau0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
