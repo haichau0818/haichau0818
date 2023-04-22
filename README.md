@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="linkedin.com/in/hải-châu-0a4417201">
+  <a href="[linkedin.com/in/hải-châu-0a4417201](https://www.linkedin.com/in/h%E1%BA%A3i-ch%C3%A2u-0a4417201/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[your-youtube-URL](https://www.youtube.com/channel/UCxoEfqmjnCrjydJyMIzMaQw)">
