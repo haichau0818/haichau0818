@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/channel/UCxoEfqmjnCrjydJyMIzMaQw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.facebook.com/haichau0818/">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
