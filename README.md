@@ -18,7 +18,7 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Can Tho.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :mailbox:hachau0818@gmail.com
+- :mailbox: <img src="https://media.giphy.com/media/l2SpLR8NRq1nVyGD6/giphy.gif" width="30"> hachau0818@gmail.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
