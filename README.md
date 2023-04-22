@@ -32,11 +32,9 @@
   
   
 ### :fire: My Stats :
-  <div>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haichau0818&theme=dark&background=000000)](https://git.io/streak-stats)</div>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haichau0818&theme=dark&background=000000)](https://git.io/streak-stats)
 &nbsp;
-  <div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haichau0818&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haichau0818&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
