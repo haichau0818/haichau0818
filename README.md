@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-
+<img align="right" src="https://github.com/ahmedsamir010/ahmedsamir010/blob/main/Images/Right_Side.gif" width=30%>
 ### :woman_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Can Tho.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -21,7 +21,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :mailbox: <img src="https://media.giphy.com/media/l2SpLR8NRq1nVyGD6/giphy.gif" width="30"> hachau0818@gmail.com
 
 
-<img align="right" src="https://github.com/ahmedsamir010/ahmedsamir010/blob/main/Images/Right_Side.gif" width=30%>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
