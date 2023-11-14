@@ -15,9 +15,11 @@
 </div>
 <img align="right" src="https://github.com/haichau0818/haichau0818/blob/main/Right_Side.gif" width=30%>
 </br>
+
+
 ### :woman_technologist: About Me :
 </br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=20> I am a Software Engineer from Can Tho.
+- I am a Software Engineer from Can Tho.
 </br>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
