@@ -17,23 +17,14 @@
 </br>
 
 
-
-
-
 ### :woman_technologist: About Me :
 </br>
 - I am a Software Engineer from Can Tho.
 </br>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :mailbox: <img src="https://media.giphy.com/media/l2SpLR8NRq1nVyGD6/giphy.gif" width="30"> hachau0818@gmail.com
+- :mailbox: <img src="https://media.giphy.com/media/l2SpLR8NRq1nVyGD6/giphy.gif" width="30"> haichau0818@gmail.com
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -43,7 +34,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,py,spring,flask,fastapi,express,nestjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,nextjs,react,py,spring,nuxtjs,fastapi,express,nestjs" />
   </a>
 </p>
 
@@ -53,14 +44,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,figma,xd,idea,postman,linux,powershell" />
   </a>
 </p>
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haichau0818&layout=compact&theme=vision-friendly-dark)]
