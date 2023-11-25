@@ -69,7 +69,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,pr,xd,figma,au,ae" />
+    <img src="https://skillicons.dev/icons?i=ai,pr,xd,figma" />
   </a>
 </p>
 <br/>
