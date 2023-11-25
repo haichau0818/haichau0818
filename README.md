@@ -56,6 +56,8 @@
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 
+
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=haichau0818&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <!--
 **haichau0818/haichau0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
