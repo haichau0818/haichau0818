@@ -46,7 +46,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,nextjs,react,py,spring,nuxtjs,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,nodejs,nextjs,py,spring,nuxtjs,fastapi,express,nestjs,babel,bootstrap,css,jquery,pug,regex" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,figma,idea,postman,linux,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,appwrite,docker,idea,postman,linux,powershell,nginx" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,xd,ai,au,ae" />
+    <img src="https://skillicons.dev/icons?i=ai,pr,xd,figma,au,ae" />
   </a>
 </p>
 <br/>
