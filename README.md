@@ -43,24 +43,27 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,figma,xd,idea,postman,linux,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,figma,idea,postman,linux,powershell" />
   </a>
 </p>
-
-### :fire: My Stats :
-
+- Tools Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pr,xd,ai,au,ae" />
+  </a>
+</p>
 <br/>
 <hr/>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/haichau0818">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haichau0818&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/haichau0818">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
