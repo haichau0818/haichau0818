@@ -32,7 +32,7 @@
   <br/>
  ✌️ &emsp; Enjoy to do programming and learn new knowledge<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: (haichau0818@gmail.com)<br/><br/>
+ 📧 &emsp; Reach me anytime: haichau0818@gmail.com<br/><br/>
  💬 &emsp; Exchange of knowledge with me: (https://github.com/haichau0818/)
 
 </p>
