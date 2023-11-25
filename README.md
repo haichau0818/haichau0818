@@ -40,6 +40,7 @@
 </br>
 ## :hammer_and_wrench: Languages and Tools :
 <div>
+  
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -53,13 +54,17 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
+
 - Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,figma,idea,postman,linux,powershell" />
   </a>
 </p>
+
 - Tools Design
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pr,xd,ai,au,ae" />
@@ -77,12 +82,13 @@
 
 <p align="center">
   <a href="https://github.com/haichau0818">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haichau0818&theme=radical" alt="Kane Chau's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/haichau0818"><img alt="Kane Chau's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=haichau0818&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/haichau0818"><img alt="Kane Chau's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=haichau0818&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    </a>
   <a href="https://github.com/haichau0818"><img alt="Kane Chau's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=haichau0818&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
