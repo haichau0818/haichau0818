@@ -53,7 +53,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
@@ -61,9 +60,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
   </a>
 </p>
 
-  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haichau0818&layout=compact&theme=vision-friendly-dark)]
+
 
 
 
