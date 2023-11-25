@@ -65,7 +65,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
   </a>
 </p>
 
