@@ -43,21 +43,21 @@
 
 <div>
   
-- Backend
+## - Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,react,nodejs,nextjs,py,nuxtjs,fastapi,express,nestjs,babel,bootstrap,css,jquery,pug,regex" />
   </a>
 </p>
 
-- Database
+## - Database
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- Tools
+## - Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
