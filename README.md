@@ -26,7 +26,7 @@
 </br>
 
 
-### :woman_technologist: About Me :
+# :woman_technologist: About Me :
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -38,7 +38,7 @@
 </p>
 
 </br>
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
 - Backend
 <p align="left">
@@ -88,7 +88,7 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=haichau0818&custom_title=Kane%20Chau's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Kane Chau's Graph](https://github-readme-activity-graph.vercel.app/graph?username=haichau0818&custom_title=Kane%20Chau's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
