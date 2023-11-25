@@ -74,7 +74,7 @@
 </p>
 <br/>
 
-# :person_rowing_boat: Activity:
+# :rowboat: Activity:
 
 <hr/>
 <br/>
