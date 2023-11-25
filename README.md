@@ -25,10 +25,6 @@
 
 - :mailbox: <img src="https://media.giphy.com/media/l2SpLR8NRq1nVyGD6/giphy.gif" width="30"> haichau0818@gmail.com
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 - Backend
@@ -44,7 +40,6 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
