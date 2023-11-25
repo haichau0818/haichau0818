@@ -6,6 +6,15 @@
   <a href="https://www.linkedin.com/in/h%E1%BA%A3i-ch%C3%A2u-0a4417201/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://www.linkedin.com/in/h%E1%BA%A3i-ch%C3%A2u-0a4417201/">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+      <a href="https://www.linkedin.com/in/h%E1%BA%A3i-ch%C3%A2u-0a4417201/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/h%E1%BA%A3i-ch%C3%A2u-0a4417201/">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
   <a href="https://www.youtube.com/channel/UCxoEfqmjnCrjydJyMIzMaQw">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
   </a>
