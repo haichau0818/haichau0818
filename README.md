@@ -26,7 +26,8 @@
 </br>
 
 
-# :man_technologist: About Me :
+# 	
+:man_technologist: About Me :
 
 <p>
  <img align="right" width="400" src="/assets/programmer.gif" alt="Coding gif" />
