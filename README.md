@@ -47,14 +47,14 @@
 ## Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,nodejs,nextjs,py,nuxtjs,fastapi,express,nestjs,babel,bootstrap,css,jquery,pug,regex" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,nodejs,nextjs,py,express,nestjs,babel,bootstrap,css,jquery,pug,regex" />
   </a>
 </p>
 
 ## Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,appwrite,docker,idea,postman,linux,powershell,nginx" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,postman,linux,powershell,nginx" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,ps,xd,figma" />
+    <img src="https://skillicons.dev/icons?i=ai,ps,xd" />
   </a>
 </p>
 <br/>
