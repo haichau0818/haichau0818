@@ -6,9 +6,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="#">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.s?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
       <a href="#">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
