@@ -18,9 +18,6 @@
   <a href="https://www.youtube.com/channel/UCxoEfqmjnCrjydJyMIzMaQw">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.facebook.com/haichau0818/">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
 </div>
 <img align="right" src="https://github.com/haichau0818/haichau0818/blob/main/Right_Side.gif" width=30%>
 </br>
